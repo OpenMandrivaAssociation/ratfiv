@@ -8,6 +8,7 @@ Buildrequires:		gcc-gfortran
 Source0:		%name-%version.tar.bz2
 patch0:                 ratfiv-1.0.5-fix-gfortran.patch
 URL:			http://sauvy.ined.fr/~brouard/%{name}
+BuildRoot:		%{_tmppath}/%{name}-buildroot
 ExclusiveArch:		%{ix86} ia64 x86_64 amd64
 
 %description
