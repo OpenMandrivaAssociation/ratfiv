@@ -1,7 +1,7 @@
 Summary:		Ratfiv fortran preprocessor
 Name:			ratfiv
 Version:		1.0.5
-Release:		%mkrel 6
+Release:		%mkrel 7
 License:		GPL
 Group:			Development/Other
 Buildrequires:		gcc-gfortran
