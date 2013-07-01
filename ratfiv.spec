@@ -1,4 +1,4 @@
-Summary:		Ratfiv fortran preprocessor
+Summary:		Fortran preprocessor
 Name:			ratfiv
 Version:		1.0.5
 Release:		%mkrel 7
