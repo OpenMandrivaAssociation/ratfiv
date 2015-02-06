@@ -1,7 +1,7 @@
 Summary:		Fortran preprocessor
 Name:			ratfiv
 Version:		1.0.5
-Release:		8
+Release:		9
 License:		GPL
 Group:			Development/Other
 Buildrequires:		gcc-gfortran
