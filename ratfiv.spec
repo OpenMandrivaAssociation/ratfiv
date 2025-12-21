@@ -4,6 +4,7 @@ Version:		1.0.5
 Release:		9
 License:		GPL
 Group:			Development/Other
+BuildRequires:	make
 Buildrequires:		gcc-gfortran
 Source0:		%name-%version.tar.bz2
 patch0:                 ratfiv-1.0.5-fix-gfortran.patch
